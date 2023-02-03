@@ -18,6 +18,7 @@
     "ieee754": "^1.2.1",
     "joi": "^17.7.0",
     "mime-db": "^1.52.0",
+    "mongodb": "3.3",
     "on-exit-leak-free": "^2.1.0",
     "pino": "^8.8.0",
     "pino-abstract-transport": "^1.0.0",
