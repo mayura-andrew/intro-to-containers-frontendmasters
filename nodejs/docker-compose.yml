@@ -5,7 +5,7 @@ services:
     ports: 
       - "3000:3000"
     volumes:
-      - .:home/node/code
+      - .:/home/node/code
       - /home/node/code/node_modules
     links:
       - db
